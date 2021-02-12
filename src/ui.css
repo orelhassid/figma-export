@@ -1,0 +1,11 @@
+body {
+  opacity: 0;
+}
+
+#copy-area {
+  position: fixed;
+  top: -9999px;
+  left: -9999px;
+  opacity: 0;
+  
+}
